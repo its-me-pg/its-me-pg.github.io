@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6742336.css",
+    "main.js": "/static/js/main.c5359b0b.js",
+    "static/media/Ioannina Lake Run 2022 - 4.png": "/static/media/Ioannina Lake Run 2022 - 4.d786a0568cc34576b095.png",
+    "static/media/Ioannina Lake Run 2022 - 1.jpg": "/static/media/Ioannina Lake Run 2022 - 1.cb46476f093f4436f0d8.jpg",
+    "static/media/Neapoli Road Run 2019 - 1.jpg": "/static/media/Neapoli Road Run 2019 - 1.4aef38fb6a4b226692c7.jpg",
+    "static/media/Mnimes Ligniti 2022 - 2.jpg": "/static/media/Mnimes Ligniti 2022 - 2.d9bad3882e1c1d63671c.jpg",
+    "static/media/Panorama Charity Fun Run 2023 - 2.jpg": "/static/media/Panorama Charity Fun Run 2023 - 2.b3aac90ccf2f5e874012.jpg",
+    "static/media/Mnimes Ligniti 2022 - 3.jpg": "/static/media/Mnimes Ligniti 2022 - 3.c788b81df9e0ae48dedc.jpg",
+    "static/media/Ioannina Lake Run 2022 - 2.jpg": "/static/media/Ioannina Lake Run 2022 - 2.190c7288ad628b875c5d.jpg",
+    "static/media/Neapoli Road Run 2019 - 2.jpg": "/static/media/Neapoli Road Run 2019 - 2.ad950d92eb4ae9e4ab2a.jpg",
+    "static/media/Panorama Charity Fun Run 2023 - 1.jpg": "/static/media/Panorama Charity Fun Run 2023 - 1.bfff00ec40fd53dd2545.jpg",
+    "static/media/Ioannina Lake Run 2022 - 5.jpg": "/static/media/Ioannina Lake Run 2022 - 5.1f1c7185ce8244016854.jpg",
+    "static/media/Ioannina Lake Run 2021 - 2.jpg": "/static/media/Ioannina Lake Run 2021 - 2.aa2cb61c8f8e36958321.jpg",
+    "static/media/Cover photo.jpg": "/static/media/Cover photo.5c71d5a1579302c88430.jpg",
+    "static/media/Mnimes Ligniti 2019 - 1.jpeg": "/static/media/Mnimes Ligniti 2019 - 1.73cfc8b91f50ddad7f6f.jpeg",
+    "static/media/Mnimes Ligniti 2019 - 2.jpg": "/static/media/Mnimes Ligniti 2019 - 2.9a482e98a1e8aa7fa210.jpg",
+    "static/media/Solidarity Road Race 2022 - 1.jpg": "/static/media/Solidarity Road Race 2022 - 1.cf4704faa47071cd1d62.jpg",
+    "static/media/Apollodorus Road Race 2019 - 1.jpg": "/static/media/Apollodorus Road Race 2019 - 1.aa807d0db6f68da58580.jpg",
+    "static/media/Mnimes Ligniti 2020 - 2.jpg": "/static/media/Mnimes Ligniti 2020 - 2.53c234cd5d9ae1ffdfee.jpg",
+    "static/media/Ioannina Lake Run 2021 - 1.jpg": "/static/media/Ioannina Lake Run 2021 - 1.9bcb3aeb8c40dc79a632.jpg",
+    "static/media/Run Greece Kastoria 2022 - 2.jpg": "/static/media/Run Greece Kastoria 2022 - 2.a4050c28ea9c89f2c9a6.jpg",
+    "static/media/Run Greece Kastoria 2022 - 1.jpg": "/static/media/Run Greece Kastoria 2022 - 1.c60ade5bba033b294619.jpg",
+    "static/media/Run Greece Kastoria 2022 - 3.jpg": "/static/media/Run Greece Kastoria 2022 - 3.7d89423b8a6b8c1bbf5c.jpg",
+    "static/media/Run Greece Kastoria 2022 - 5.jpeg": "/static/media/Run Greece Kastoria 2022 - 5.ea0c6fa81486ac2c688f.jpeg",
+    "static/media/Ioannina Lake Run 2022 - 3.jpg": "/static/media/Ioannina Lake Run 2022 - 3.df7356f06e89cf9c4a1a.jpg",
+    "static/media/Mnimes Ligniti 2022 - 1.jpg": "/static/media/Mnimes Ligniti 2022 - 1.3ff0a12fe1aed22e2ef1.jpg",
+    "static/media/Mnimes Ligniti 2020 - 1.jpg": "/static/media/Mnimes Ligniti 2020 - 1.6de7868333ad89a9467e.jpg",
+    "static/media/Run Greece Kastoria 2022 - 4.webp": "/static/media/Run Greece Kastoria 2022 - 4.e67214ea4103b45a95f9.webp",
+    "static/media/Yes to life, no to drugs 2018 - 1.jpeg": "/static/media/Yes to life, no to drugs 2018 - 1.a1a173a4d641ba0c1260.jpeg",
+    "static/media/Yes to life, no to drugs 2018 - 2.jpeg": "/static/media/Yes to life, no to drugs 2018 - 2.e1b14fdf7bcf40102ab4.jpeg",
+    "index.html": "/index.html",
+    "main.b6742336.css.map": "/static/css/main.b6742336.css.map",
+    "main.c5359b0b.js.map": "/static/js/main.c5359b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6742336.css",
+    "static/js/main.c5359b0b.js"
+  ]
+}
