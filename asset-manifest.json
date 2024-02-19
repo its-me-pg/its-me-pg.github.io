@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5a3caff.css",
-    "main.js": "/static/js/main.12796e95.js",
+    "main.css": "/static/css/main.0907f542.css",
+    "main.js": "/static/js/main.bd77c29e.js",
     "static/media/mrs perri portrait.jpg": "/static/media/mrs perri portrait.51bf3a76503adfe885d2.jpg",
     "static/media/maria and vasilis original.jpg": "/static/media/maria and vasilis original.405a81d65ac012386d5e.jpg",
     "static/media/tolis fasois portrait.jpg": "/static/media/tolis fasois portrait.3f2ac18ecc7bedabbedd.jpg",
@@ -68,11 +68,11 @@
     "static/media/takis stathopoulos original.jpg": "/static/media/takis stathopoulos original.1d32b8f530b318b90b7c.jpg",
     "static/media/Yes to life, no to drugs 2018 - 2.jpeg": "/static/media/Yes to life, no to drugs 2018 - 2.e1b14fdf7bcf40102ab4.jpeg",
     "index.html": "/index.html",
-    "main.c5a3caff.css.map": "/static/css/main.c5a3caff.css.map",
-    "main.12796e95.js.map": "/static/js/main.12796e95.js.map"
+    "main.0907f542.css.map": "/static/css/main.0907f542.css.map",
+    "main.bd77c29e.js.map": "/static/js/main.bd77c29e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5a3caff.css",
-    "static/js/main.12796e95.js"
+    "static/css/main.0907f542.css",
+    "static/js/main.bd77c29e.js"
   ]
 }
